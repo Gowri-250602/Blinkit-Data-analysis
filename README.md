@@ -1,2 +1,2 @@
 # Blinkit-Data-analysis
-Blinkit data analysis using Power BI
+Created interactive dashboard for Blinkit Data analysis using Power BI
